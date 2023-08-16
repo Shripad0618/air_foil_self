@@ -1,0 +1,14 @@
+﻿flask
+flask_cors
+gunicorn
+Jinja2
+Werkzeug
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+category_encoders
+catboost
+xgboost
